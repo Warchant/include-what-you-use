@@ -10,3 +10,7 @@ tags
 TAGS
 
 /build
+.vscode
+.vs
+CMakeSettings.json
+out
